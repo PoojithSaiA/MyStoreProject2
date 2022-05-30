@@ -1,0 +1,4 @@
+activeProfiles=sanity, regression, smoke, crossbrowser, all
+eclipse.preferences.version=1
+resolveWorkspaceProjects=true
+version=1
